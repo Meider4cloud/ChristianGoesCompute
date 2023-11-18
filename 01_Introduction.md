@@ -35,6 +35,7 @@ You can copy the code to this [playground](https://playcode.io/empty_javascript)
 - Mainboard
 - Storage - HDD vs. SSD
 - Network card
+- BIOS/UEI
 
 ## 02 Operating System
 
@@ -49,6 +50,15 @@ You can copy the code to this [playground](https://playcode.io/empty_javascript)
 ## 04 Tools for Coding
 
 - VS Code
+- Github
+  - Create SSH key to access
+  - git clone
+  - git add .
+  - git commit -am 'comment on new commit'
+  - git push
+  - git pull
+- zsh
+- Postman
 
 ## 05 Networking
 
@@ -109,6 +119,15 @@ Choose one to learn
 
 ## 12 Build an API
 
-## 13 Docker
+
+## Virtual Machines
+
+## 13 Docker and Kubernetes
 
 ## 14 Chat GPT and AI
+
+## 15 Public Clouds
+
+ - AWS
+ - GCP
+ - Azure
