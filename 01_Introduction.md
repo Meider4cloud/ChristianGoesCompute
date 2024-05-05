@@ -1,6 +1,6 @@
 # Become a Computer Expert
 
-Hi Chris. I want to guide you a bit into the computer world. So I will help you to find topics, that you need to understand and learn when you want to use this as a carrier path later. The topics will be very wide and not only be related to learning to programm.  
+Hi Chris. I want to guide you a bit into the computer world. So I will help you to find topics, that you need to understand and learn when you want to use this as a carrier path later. The topics will be very wide and not only be related to learning to programm.  making a challange
 
 I will not be able to explain everything to you. This is more a guide for you, on what topics you should look. And I will try to share resources to find good answers.  
 
