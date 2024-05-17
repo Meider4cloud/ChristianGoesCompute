@@ -22,7 +22,7 @@
 blah blah blah
 
 ```bash
-c
+git checkout christian
 git add .
 git commit -am 'here is my comment'
 git push
