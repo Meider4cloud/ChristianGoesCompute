@@ -1,0 +1,17 @@
+{
+  "name": "newprojects",
+  "version": "1.0.0",
+  "description": "Class user login",
+  "main": "project1.js",
+  "scripts": {
+    "auto": "npx nodemon server.js",
+    "dev": "nodemon project1.js",
+    "prod": "node project1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
